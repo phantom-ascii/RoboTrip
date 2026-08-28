@@ -16,4 +16,7 @@ Anyway, i went for a socket mounted components format cause Ive never actually s
 # Aug 28: I have finished applying all the footprints and 3d models.
 I usd grabcad for all the 3d models and for the footprints i just searched up the componenet. This step was pretty easy just a little bit tedius. Anywas i will be working on routing, laying out the pcb and final touches now. I can wait to see where this project ends
 
+<img width="840" height="483" alt="image" src="https://github.com/user-attachments/assets/fb01639d-eb48-43ef-835c-594ab87616e9" />
+mmm... raytracing...
+
 **Total time spent: 35 minutes**
