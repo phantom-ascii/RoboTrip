@@ -12,3 +12,8 @@ I have finished the schematics layout and honestly it looks beautiful. I mean ju
 Anyway, i went for a socket mounted components format cause Ive never actually soldered before and i dont want to mess this project up so i went for the easier to solder sockets. Ill be using an ESP32 (*the holy grail*) for this project and we will see where it leads us. To be honest i have 2 days till school starts and i need to finish it by then or wait till next holidays so pray for my people.Oh yeah also forgot to meantion... ***0 ERRORS WHOHOOO*** Bye
 
 **Total time spent: 52 minutes**
+
+# Aug 28: I have finished applying all the footprints and 3d models.
+I usd grabcad for all the 3d models and for the footprints i just searched up the componenet. This step was pretty easy just a little bit tedius. Anywas i will be working on routing, laying out the pcb and final touches now. I can wait to see where this project ends
+
+**Total time spent: 35 minutes**
