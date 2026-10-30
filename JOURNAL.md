@@ -2,21 +2,14 @@
 title: "Robo Trip"
 author: "phantom-ascii"
 description: "A robot that unironically doesn't trip over. AKA a self balancing robot on wheels"
-created_at: "28/08/2026 - DD/MM/YYYY"
+created_at: "28/08/2026"
 ---
 
-# Aug 28: I have finished designing the schematics layout.
-I have finished the schematics layout and honestly it looks beautiful. I mean just look at it:
-<img width="1203" height="696" alt="image" src="https://github.com/user-attachments/assets/77dddc76-5f66-4333-9c1c-30a9b1d431f4" />
+# Oct 30 Start this project
+lets see how this goes. Ik this is like my 6th actuve project but i *swear* im going to finish this one guys trust me. Anyways im trying to build a two wheeled robot that can self balance itself using the esp32 devkitc (so i can maybe add a future wireless controller) 2 servos a imu thingy and yeah alot of firmware. Im trying to make this project as fast as possible, Maybe sub 15hrs but idk. If i do it will be the first ever finished robotics design ive ever made which is a big stepping stop for me. Anyways for the actual robot im using this video as an insparation https://youtu.be/J5Xd43LIFiU?si=S8jEOVqMYvLJKo9g
 
-Anyway, i went for a socket mounted components format cause Ive never actually soldered before and i dont want to mess this project up so i went for the easier to solder sockets. Ill be using an ESP32 (*the holy grail*) for this project and we will see where it leads us. To be honest i have 2 days till school starts and i need to finish it by then or wait till next holidays so pray for my people.Oh yeah also forgot to meantion... ***0 ERRORS WHOHOOO*** Bye
 
-**Total time spent: 52 minutes**
+no real image to give so heres a cat
+![image here](./images/1.png)
 
-# Aug 28: I have finished applying all the footprints and 3d models.
-I usd grabcad for all the 3d models and for the footprints i just searched up the componenet. This step was pretty easy just a little bit tedius. Anywas i will be working on routing, laying out the pcb and final touches now. I can wait to see where this project ends
-
-<img width="840" height="483" alt="image" src="https://github.com/user-attachments/assets/fb01639d-eb48-43ef-835c-594ab87616e9" />
-mmm... raytracing...
-
-**Total time spent: 35 minutes**
+**Total time spent: 0 minutes**
